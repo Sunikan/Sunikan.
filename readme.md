@@ -1,8 +1,8 @@
 ### Hi there 👋 Nice to see u.
-[![image](https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg)](#)
+[![image](https://us-fbcloud.net/wb/data/1314/1314125-img.uwdclx.45ktx.jpg)](#)
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Sunikan Thongsee
+- ⚡ Student id: 63366936
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
